@@ -7,7 +7,7 @@ install.packages('devtools')
 devtools::install_github("hadley/fueleconomy")
 
 # Require/library the fueleconomy package
-
+library(fueleconomy)
 
 # You should have have access to the `vehicles` data.frame
 
